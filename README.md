@@ -8,7 +8,7 @@ My name is Nhan Nguyen. I am a master student at University of Science - VNHCM. 
 
 ![Nhan's github stats]***(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhannguyen0108&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)***
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
+***<a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
@@ -87,4 +87,4 @@ My name is Nhan Nguyen. I am a master student at University of Science - VNHCM. 
 <a href="https://github.com/vietnh1009/Very-deep-cnn-tensorflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
+</a>***
